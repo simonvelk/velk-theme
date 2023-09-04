@@ -1,0 +1,32 @@
+{
+  "name": "Velk",
+  "displayName": "Velk",
+  "description": "Personal theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velk dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Velk dark-color-theme.json"
+      }
+    ]
+
+    "publisher" : "Velk",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/simonvelk/velk-theme"
+  },
+  "keywords": [
+    "dark theme",
+    "paastels",
+    "velk",
+    ]
+  }
+}
